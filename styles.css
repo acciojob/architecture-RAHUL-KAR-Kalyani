@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+table td .first,table td .last{
+    width: 200px;
+}
+table td .middle{
+    width: 600px;
+}
